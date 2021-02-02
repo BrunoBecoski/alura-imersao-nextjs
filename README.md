@@ -8,7 +8,7 @@
 </p>
 
 # Imersão React 2ª Edição: Next.JS 
-Projeto construído durante a Imersão React Next.JS da Alura
+Projeto construído durante a <a href="https://github.com/alura-challenges/aluraquiz-base">Imersão React Next.JS da Alura</a>
 
 <p align="center">
   <img alt="Alura Quiz Home" src=".github/aluraquiz.png" />
